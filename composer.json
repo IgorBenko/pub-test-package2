@@ -5,5 +5,7 @@
             "Igorb\\PubTestPackage2\\": "src/"
         }
     },
-    "require": {}
+    "require": {
+        "adachsoft/ai-integration": "^0.1.0"
+    }
 }
