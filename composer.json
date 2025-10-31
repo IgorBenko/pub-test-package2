@@ -4,8 +4,5 @@
         "psr-4": {
             "Igorb\\PubTestPackage2\\": "src/"
         }
-    },
-    "require": {
-        "adachsoft/ai-integration": "^0.1.0"
     }
 }
