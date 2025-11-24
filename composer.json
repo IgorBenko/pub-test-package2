@@ -1,5 +1,6 @@
 {
     "name": "igorb/pub-test-package2",
+    "abandoned": true,
     "autoload": {
         "psr-4": {
             "Igorb\\PubTestPackage2\\": "src/"
