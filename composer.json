@@ -1,6 +1,6 @@
 {
     "name": "igorb/pub-test-package2",
-    "abandoned": "igorb/pub-test-package3",
+    "abandoned": "true",
     "version": "dev",
     "autoload": {
         "psr-4": {
